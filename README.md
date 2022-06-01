@@ -4,4 +4,4 @@ This program can calculate what will be left in the cash register when it's hand
 Basically, the function itself takes 3 arguments:
 1. Price of the item
 2. Given cash
-3. Cash in register
+3. Cash in drawer
